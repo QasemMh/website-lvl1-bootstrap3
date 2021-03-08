@@ -32,4 +32,6 @@ $(function () {
     $(this).parent().toggleClass("slide");
    });
   /* */
+  
+  AOS.init();
 });
